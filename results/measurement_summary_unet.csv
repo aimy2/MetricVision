@@ -1,0 +1,2 @@
+model,instances,width_MAE_mm,height_MAE_mm,overall_MAE_mm,width_mean_percentage_error,height_mean_percentage_error,overall_mean_percentage_error,raw_width_MAE_mm,raw_height_MAE_mm,undistorted_width_MAE_mm,undistorted_height_MAE_mm
+unet,10,5.659318923950195,6.332755279541016,5.996037101745605,6.6580222634708175,5.066204223632813,5.862113243551815,5.981471252441406,7.131268310546875,5.659318923950195,6.332755279541016

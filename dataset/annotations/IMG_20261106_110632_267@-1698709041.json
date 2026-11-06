@@ -1,0 +1,36 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "card",
+      "points": [
+        [
+          2287.5,
+          1545.0
+        ],
+        [
+          2537.5,
+          2305.0
+        ],
+        [
+          3102.5,
+          2170.0
+        ],
+        [
+          2817.5,
+          1415.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\IMG_20261106_110632_267@-1698709041.jpg",
+  "imageData": null,
+  "imageHeight": 4160,
+  "imageWidth": 3120
+}

@@ -1,0 +1,36 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "card",
+      "points": [
+        [
+          330.0,
+          1252.5925925925926
+        ],
+        [
+          422.5925925925926,
+          2111.8518518518517
+        ],
+        [
+          1755.925925925926,
+          1908.1481481481483
+        ],
+        [
+          1589.2592592592591,
+          1171.1111111111113
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\IMG_20261106_110935_037@-1487919434.jpg",
+  "imageData": null,
+  "imageHeight": 3120,
+  "imageWidth": 4160
+}
